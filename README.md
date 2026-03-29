@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Avinash 👋
 
-<!--
-**avinashdevs/avinashdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer  
+📍 Tamil Nadu, India  
 
-Here are some ideas to get you started:
+I build modern, high-performance websites for businesses including hospitals, restaurants, hotels, and e-commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Services
+- Business Website Development
+- E-commerce Solutions
+- Booking & Appointment Systems
+- WhatsApp Integration
+- SEO Optimization
+
+## 💼 Projects
+- Hospital Website System
+- Restaurant Ordering Website
+- E-commerce Store
+- Hotel Booking Platform
+
+## 📫 Contact
+📧 avinashanandh.dev@gmail.com
